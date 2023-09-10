@@ -16,7 +16,7 @@ python - good for interview
 # 2. practice the skillls
 
 
-# 3. project
+# 3. project - spark good in batch / streaming / ML
 
 
 # 4. understand high level design
